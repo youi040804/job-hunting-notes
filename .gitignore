@@ -1,0 +1,7 @@
+# Obsidian 配置文件（个人设置，不应上传）
+.obsidian/
+.obsidian/*
+
+# 系统文件
+.DS_Store
+Thumbs.db
